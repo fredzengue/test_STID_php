@@ -1,0 +1,3 @@
+
+Titre API : How to store inserted or updated ids in a MySQL multirow INSERT INTO ... ON DUPLICATE KEY UPDATE
+Titre UI  : How to store inserted or updated ids in a MySQL multirow INSERT INTO ... ON DUPLICATE KEY UPDATE

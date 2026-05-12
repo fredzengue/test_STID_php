@@ -1,0 +1,1 @@
+from fixtures.base_fixture import browser_page
